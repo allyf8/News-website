@@ -1,0 +1,11 @@
+/*
+this is the file with styles for index.html
+*/
+p::first-letter {
+    color: rgb(95, 7, 7);
+}
+div :first-child {
+
+}
+p { color: red};
+
